@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Asus\\Documents\\EV\\TridentTechWebsite\\TridentTechSolutions\\TridentTechSolutions.csproj",
+      "projectUniqueName": "D:\\Asus\\Documents\\EV\\Trident-Tech\\TridentTechSolutions.csproj",
       "projectName": "TridentTechSolutions",
-      "projectPath": "D:\\Asus\\Documents\\EV\\TridentTechWebsite\\TridentTechSolutions\\TridentTechSolutions.csproj",
+      "projectPath": "D:\\Asus\\Documents\\EV\\Trident-Tech\\TridentTechSolutions.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Asus\\Documents\\EV\\TridentTechWebsite\\TridentTechSolutions\\obj\\",
+      "outputPath": "D:\\Asus\\Documents\\EV\\Trident-Tech\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

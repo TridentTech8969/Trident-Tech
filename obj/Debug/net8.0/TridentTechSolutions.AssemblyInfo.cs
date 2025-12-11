@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TridentTechSolutions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5257ed9edc751ad3059ee7044181987d5209926")]
 [assembly: System.Reflection.AssemblyProductAttribute("TridentTechSolutions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TridentTechSolutions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
